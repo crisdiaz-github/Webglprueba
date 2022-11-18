@@ -1,3 +1,3 @@
-# Probando las build del WebGL
+# Probando las build de WebGL
 
 https://crisdiaz-github.github.io/Wegblprueba/
