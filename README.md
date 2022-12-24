@@ -3,7 +3,7 @@ https://crisdiaz-github.github.io/Webglprueba/
 
 This is a test build. Im having fun making a virtual table for tabletop RPG sessions.
 
-Currently there are only basica functions like:
+Currently there are only basic functions like:
 
 -Throw dices and choose their color.
 
