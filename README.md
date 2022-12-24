@@ -11,4 +11,4 @@ Currently there are only basic functions like:
 
 -Move, rotate and zoom the camera.
 
--Option to change the graphics quality and a option to change how much time the dices are cleaned.
+-Option to change the graphics quality and a option to change how much time for the dices to be cleaned.
