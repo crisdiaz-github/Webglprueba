@@ -1,4 +1,4 @@
-# Link:
+# WebGl DnD Test:
 https://crisdiaz-github.github.io/Webglprueba/
 
 This is a WIP test build. Im having fun making a virtual table for tabletop RPG sessions like DnD.
