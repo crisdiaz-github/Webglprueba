@@ -11,6 +11,6 @@ Currently there are only basic functions like:
 
 -Move, rotate and zoom the camera with your mouse.
 
--Simple walls creation and editing, for future maps creation with vision mechanics and maybe fog of war.
+-Simple walls creation and editing, for future maps creation with vision mechanics and fog of war.
 
 -Option to change the graphics quality and a option to change how much time for the dices to be cleaned.
