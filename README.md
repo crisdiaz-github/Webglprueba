@@ -7,8 +7,8 @@ Currently there are only basic functions like:
 
 -Throw dices and choose their color.
 
--Move objects around.
+-Select and move objects around.
 
--Move, rotate and zoom the camera.
+-Move, rotate and zoom the camera with your mouse.
 
 -Option to change the graphics quality and a option to change how much time for the dices to be cleaned.
