@@ -18,11 +18,13 @@ Currently there are only basic functions like:
 
 ### Controls:
 
-Rotate the camera holding right click.
+Rotate the camera holding "right click".
 
-Move the camera holding the wheel button and zoom it with the wheel scroll.
+Move the camera holding the "wheel button" and zoom it with the "wheel scroll".
 
-You can select objects with left click and then drag them holding left click.
+You can select objects with "left click" and then drag them holding "left click".
 
 #### In wall editing mode: 
-Press left click to create the start of a wall and the wall will follow your mouse then left click again to set the end of the wall and release it.
+Press "left click" to create the start of a wall and the wall will follow your mouse then "left click" again to set the end of the wall and release it.
+
+Also you can delete walls with "delete" button.
