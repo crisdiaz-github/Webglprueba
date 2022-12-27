@@ -1,7 +1,7 @@
 # Link:
 https://crisdiaz-github.github.io/Webglprueba/
 
-This is a test build. Im having fun making a virtual table for tabletop RPG sessions like DnD.
+This is a WIP test build. Im having fun making a virtual table for tabletop RPG sessions like DnD.
 
 Currently there are only basic functions like:
 
